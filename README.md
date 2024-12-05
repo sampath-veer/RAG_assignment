@@ -1,4 +1,4 @@
-RAG_text - text input to the system
+RAG_text - text input to the system \n
 RAG_text_pdf- pdf input to the system
 RAG_video- video input to the system
 RAG_processed_text- cleaned text file of RAG_text
@@ -10,3 +10,5 @@ embeddings_audio- contains vector extrated from audio data
 embeddings_pdf- contains vectors extracted from pdf data
 embeddings_txt - contains vectors extracted rom text data
 redused_audio- cleaned audio file
+
+
