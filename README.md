@@ -1,4 +1,8 @@
-RAG_text - text input to the system \n
+This file contains the file description of all the files used for this project.
+
+
+
+RAG_text - text input to the system 
 RAG_text_pdf- pdf input to the system
 RAG_video- video input to the system
 RAG_processed_text- cleaned text file of RAG_text
